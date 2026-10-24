@@ -1,0 +1,6 @@
+{
+  "name": "Apex Learning Center",
+  "description": "Academic portal for Apex Educational Center featuring 13-lesson gradebooks, exam tracking, news feed, and group management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

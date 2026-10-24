@@ -1,0 +1,304 @@
+{
+  "groups": {
+    "Upper-intermediate": {
+      "password": "upper123",
+      "teacher": "Sarah Jenkins",
+      "students": [
+        {
+          "id": "s1",
+          "name": "Alexander Miller",
+          "lessons": [
+            "92",
+            "88",
+            "95",
+            "90",
+            "85",
+            "94",
+            "91",
+            "89",
+            "96",
+            "90",
+            "92",
+            "94",
+            "98"
+          ],
+          "tests": [
+            "90",
+            "92",
+            "94",
+            "91",
+            "95"
+          ],
+          "exams": [
+            "94",
+            "92",
+            "95",
+            "91",
+            "96"
+          ]
+        },
+        {
+          "id": "s2",
+          "name": "Sophia Rakhimova",
+          "lessons": [
+            "85",
+            "87",
+            "88",
+            "92",
+            "90",
+            "89",
+            "93",
+            "85",
+            "90",
+            "88",
+            "86",
+            "92",
+            "94"
+          ],
+          "tests": [
+            "88",
+            "86",
+            "90",
+            "89",
+            "92"
+          ],
+          "exams": [
+            "88",
+            "90",
+            "89",
+            "92",
+            "94"
+          ]
+        },
+        {
+          "id": "s3",
+          "name": "Daniel Kim",
+          "lessons": [
+            "78",
+            "82",
+            "80",
+            "85",
+            "84",
+            "88",
+            "82",
+            "80",
+            "85",
+            "87",
+            "89",
+            "90",
+            "91"
+          ],
+          "tests": [
+            "80",
+            "84",
+            "85",
+            "88",
+            "89"
+          ],
+          "exams": [
+            "82",
+            "85",
+            "84",
+            "88",
+            "89"
+          ]
+        },
+        {
+          "id": "s_1792316594483",
+          "name": "idris",
+          "lessons": [
+            "95",
+            "15",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "tests": [
+            "85",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "exams": [
+            "96",
+            "95",
+            "98",
+            "94",
+            "99"
+          ]
+        }
+      ]
+    },
+    "beginner": {
+      "password": "password",
+      "teacher": "F. Boymurodov",
+      "students": [
+        {
+          "id": "s_1792675144997",
+          "name": "sardor",
+          "lessons": [
+            "95",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "tests": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "exams": [
+            "92",
+            "90",
+            "94",
+            "88",
+            "95"
+          ]
+        },
+        {
+          "id": "s_1792675389428",
+          "name": "",
+          "lessons": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "tests": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "exams": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    }
+  },
+  "news": [
+    {
+      "id": "news_1",
+      "title": "Autumn Speaking Competition Winners!",
+      "date": "October 16, 2026",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&auto=format&fit=crop&q=80",
+      "content": "Congratulations to our students who took top spots in the Regional English Debate Forum. Certificates and prizes were awarded today in the main hall of Dunyoi Khirad."
+    },
+    {
+      "id": "news_2",
+      "title": "Mid-Term Examination Schedule Released",
+      "date": "October 10, 2026",
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&auto=format&fit=crop&q=80",
+      "content": "All Dunyoi Khirad groups are requested to review their upcoming test timelines. Preparation sessions will be held on Saturdays."
+    }
+  ],
+  "teachers": {
+    "boymurodov": {
+      "username": "boymurodov",
+      "password": "password",
+      "name": "Teacher F. Boymurodov",
+      "assignedGroup": "beginner",
+      "canPublishNews": true
+    },
+    "sarahj": {
+      "username": "sarahj",
+      "password": "upper123",
+      "name": "Sarah Jenkins",
+      "assignedGroup": "Upper-intermediate",
+      "canPublishNews": false
+    }
+  },
+  "library": [
+    {
+      "id": "lib_1",
+      "title": "English Grammar in Use (5th Edition)",
+      "type": "pdf",
+      "category": "Grammar & Reference",
+      "author": "Raymond Murphy",
+      "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "size": "14.2 MB",
+      "description": "Essential grammar reference and practice guide for intermediate students with exercises and answer keys."
+    },
+    {
+      "id": "lib_2",
+      "title": "Cambridge IELTS 18 Academic Practice Tests",
+      "type": "pdf",
+      "category": "Exam Preparation",
+      "author": "Cambridge English",
+      "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "size": "9.5 MB",
+      "description": "Official practice examination papers with detailed explanations and model essay responses."
+    },
+    {
+      "id": "lib_3",
+      "title": "Listening Comprehension Track 01 - Campus Life",
+      "type": "audio",
+      "category": "Listening Practice",
+      "author": "Dunyoi Khirad Audio Lab",
+      "fileUrl": "https://actions.google.com/sounds/v1/ambiences/coffee_shop.ogg",
+      "duration": "03:45",
+      "description": "Authentic conversational listening dialogue for Upper-intermediate comprehension tasks."
+    },
+    {
+      "id": "lib_4",
+      "title": "Pronunciation & Connected Speech Audio Track 02",
+      "type": "audio",
+      "category": "Phonetics & Speaking",
+      "author": "Dunyoi Khirad Audio Lab",
+      "fileUrl": "https://actions.google.com/sounds/v1/ambiences/office_room.ogg",
+      "duration": "04:15",
+      "description": "Intonation, rhythm, and clear accent coaching audio lesson with pause-and-repeat drills."
+    }
+  ],
+  "about": {
+    "llcName": "Dunyoi Khirad LLC (ҶДММ \"Дунёи Хирад\")",
+    "licenseNumber": "ED-2023-TJ-94812",
+    "foundedYear": "2020",
+    "photoUrl": "https://images.unsplash.com/photo-1562774053-701939374585?w=1200&auto=format&fit=crop&q=80",
+    "photoCaption": "Main Educational Campus & Administrative Headquarters of Dunyoi Khirad LLC",
+    "tagline": "Nurturing Intellectual Excellence, Multilingual Mastery, and Global Academic Foundations",
+    "overview": "Dunyoi Khirad LLC is a premier certified educational center in Tajikistan, dedicated to empowering students with advanced linguistic fluency, STEM competency, and competitive exam mastery through disciplined pedagogy and modern digital tools.",
+    "mission": "To cultivate analytical minds, fluent global communicators, and morally upright leaders by providing world-class educational programs, innovative technologies, and personalized academic mentorship.",
+    "vision": "To stand as the benchmark educational institution recognized for transformative learning outcomes, exceptional university admissions, and community-driven educational excellence.",
+    "phone": "+992 (44) 600-13-13 / +992 (90) 131-30-00",
+    "email": "info@dnyoikhirad.tj",
+    "address": "14 Rudaki Avenue, 3rd Floor, Dunyoi Khirad Education Center",
+    "workingHours": "Monday - Saturday: 08:00 AM - 08:00 PM (Sunday: Intensive Seminars & Clubs)",
+    "director": "Academic Council & Administration"
+  }
+}
